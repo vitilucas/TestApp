@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374140388793",
+    "project_id": "hpro-clientes-app",
+    "storage_bucket": "hpro-clientes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374140388793:android:30acb3033ef0969abd6268",
+        "android_client_info": {
+          "package_name": "br.com.hpro.hpro_clientes_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GO3wf-xsbcshktM7Uyw7-OWAVQFtB8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

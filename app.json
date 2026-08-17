@@ -1,0 +1,41 @@
+{
+	"expo": {
+		"name": "HPro Cliente",
+		"slug": "hpro-clients-mobile",
+		"version": "1.0.12",
+		"privacy": "unlisted",
+		"owner": "hpro",
+		"platforms": ["ios", "android"],
+		"icon": "./assets/images/icon.png",
+		"splash": {
+			"image": "./assets/images/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0,
+			"url": "https://u.expo.dev/176ff79d-636d-4b04-8379-851375e3ede6/"
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"buildNumber": "1.0.12",
+			"bundleIdentifier": "br.com.hpro.hpro-clientes-mobile",
+			"supportsTablet": true
+		},
+		"android": {
+			"googleServicesFile": "./google-services.json",
+			"package": "br.com.hpro.hpro_clientes_mobile",
+			"versionCode": 12
+		},
+		"description": "",
+		"runtimeVersion": {
+			"policy": "sdkVersion"
+		},
+		"extra": {
+			"eas": {
+				"projectId": "176ff79d-636d-4b04-8379-851375e3ede6"
+			}
+		},
+		"plugins": ["expo-font"]
+	}
+}
